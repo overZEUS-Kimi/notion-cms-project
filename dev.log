@@ -1,0 +1,40 @@
+
+> claude-nextjs-starters@0.1.0 dev
+> next dev
+
+▲ Next.js 16.2.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://169.254.156.24:3000
+✓ Ready in 6.7s
+⚠ Slow filesystem detected. The benchmark took 299ms. If D:\workspace\courses\claude-nextjs-starters\.next/dev is a network drive, consider moving it to a local folder.
+See more: https://nextjs.org/docs/app/guides/local-development
+
+○ Compiling / ...
+ GET / 200 in 34.2s (next.js: 27.7s, application-code: 6.5s)
+ GET / 200 in 143ms (next.js: 83ms, application-code: 61ms)
+ GET / 200 in 27ms (next.js: 9ms, application-code: 17ms)
+○ Compiling /dashboard ...
+ GET /dashboard 200 in 30.8s (next.js: 26.7s, application-code: 4.1s)
+✓ Finished filesystem cache database compaction in 18.7s
+ GET / 200 in 1926ms (next.js: 24ms, application-code: 1902ms)
+ GET / 200 in 252ms (next.js: 23ms, application-code: 229ms)
+ GET /dashboard 200 in 294ms (next.js: 41ms, application-code: 254ms)
+ GET / 200 in 62ms (next.js: 24ms, application-code: 37ms)
+ GET / 200 in 95ms (next.js: 28ms, application-code: 67ms)
+ GET / 200 in 786ms (next.js: 70ms, application-code: 716ms)
+ GET / 200 in 239ms (next.js: 34ms, application-code: 205ms)
+ GET /dashboard 200 in 841ms (next.js: 29ms, application-code: 811ms)
+○ Compiling /login ...
+ GET / 200 in 1310ms (next.js: 20ms, application-code: 1291ms)
+ GET /login 200 in 6.8s (next.js: 5.9s, application-code: 866ms)
+ GET / 200 in 186ms (next.js: 60ms, application-code: 125ms)
+ GET /register 200 in 3.6s (next.js: 2.9s, application-code: 726ms)
+ GET / 200 in 170ms (next.js: 117ms, application-code: 53ms)
+ GET / 200 in 161ms (next.js: 72ms, application-code: 89ms)
+ GET /login 200 in 296ms (next.js: 23ms, application-code: 273ms)
+ GET / 200 in 489ms (next.js: 22ms, application-code: 467ms)
+ GET /register 200 in 427ms (next.js: 28ms, application-code: 399ms)
+ GET /register 200 in 247ms (next.js: 73ms, application-code: 175ms)
+ GET /dashboard 200 in 188ms (next.js: 36ms, application-code: 152ms)
+ GET /dashboard 200 in 500ms (next.js: 54ms, application-code: 446ms)
+ GET / 200 in 259ms (next.js: 57ms, application-code: 202ms)
